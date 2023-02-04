@@ -1,5 +1,5 @@
 ---
-title: "An Extendable Obsidian Publish alternative using Next.JS"
+title: "Home"
 excerpt: "Create your own template or use someone else's. Changing the template is a matter of updating one line"
 ---
 Publish your Obsidian Notes with a highly customizable Next.JS blog starter template. Features:
